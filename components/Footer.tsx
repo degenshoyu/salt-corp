@@ -6,7 +6,7 @@ export default function Footer() {
         <a href="https://twitter.com/NewSALTCorp" target="_blank" rel="noopener noreferrer">Twitter</a>
         <a href="https://t.me/newsaltcorp" target="_blank" rel="noopener noreferrer">Telegram</a>
         <a href="https://github.com/yourrepo" target="_blank" rel="noopener noreferrer">GitHub</a>
-        <a href="https://pump.fun/yourtoken" target="_blank" rel="noopener noreferrer">Pump.fun</a>
+        <a href="https://pump.fun/coin/HCzn3qGt9japUdPdhzRNB9mCth9DSy5ydxKMj4QWpump" target="_blank" rel="noopener noreferrer">Pump.fun</a>
         <a href="https://dexscreener.com/solana/yourpair" target="_blank" rel="noopener noreferrer">Dexscreener</a>
       </div>
     </footer>

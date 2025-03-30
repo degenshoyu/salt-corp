@@ -3,6 +3,13 @@
 export default function Home() {
   return (
     <div className="text-[#eee] font-mono text-sm leading-relaxed px-4 pt-4 pb-10 space-y-12 max-w-5xl mx-auto">
+
+      <section className="border border-red-500 p-6 w-full max-w-4xl mx-auto">
+        <h2 className="text-red-400 text-lg md:text-xl font-bold uppercase mb-2">MEME VERSION SALT IS LIVE ON PUMP.FUN</h2>
+          <p>
+          CA: HCzn3qGt9japUdPdhzRNB9mCth9DSy5ydxKMj4QWpump
+          </p>
+      </section>
       
       <section className="border border-red-500 p-6 w-full max-w-4xl mx-auto">
         <h2 className="text-red-400 text-lg md:text-xl font-bold uppercase mb-2">[NSC-H-0001] Premise: The Trust Problem</h2>
