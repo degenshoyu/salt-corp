@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html, body {
+    background-color: #111;
+    color: #eee;
+    font-family: 'Courier New', monospace;
+    min-height: 100%;
+  }
+}
