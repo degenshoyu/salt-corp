@@ -5,6 +5,9 @@ import ClientShell from './ClientShell'
 export const metadata = {
   title: 'New SALT Corp',
   description: 'Custodians of the last Trust',
+  icons: {
+    icon: '../public/favicon.ico',
+  }
 }
 
 export default function RootLayout({ children } : { children: React.ReactNode }) {
