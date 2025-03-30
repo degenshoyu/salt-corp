@@ -1,7 +1,5 @@
 'use client'
 
-// import { useEffect, useState } from 'react'
-
 export default function Home() {
   return (
     <div className="text-[#eee] font-mono text-sm leading-relaxed px-4 pt-4 pb-10 space-y-12 max-w-5xl mx-auto">
