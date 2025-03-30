@@ -6,7 +6,7 @@ export const metadata = {
   title: 'New SALT Corp',
   description: 'Custodians of the last Trust',
   icons: {
-    icon: '/favicon2.ico',
+    icon: '/favicon.ico',
   }
 }
 
