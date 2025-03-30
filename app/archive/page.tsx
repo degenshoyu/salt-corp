@@ -53,7 +53,7 @@ export default function ArchivePage() {
 
       <section className="border border-red-500 p-6 w-full max-w-4xl mx-auto">
         <h2 className="text-red-400 text-lg md:text-xl font-bold uppercase mb-4">
-          [NSC-A-0002] Reclamation: The Founding of New SALT CORP
+          [NSC-A-0002] COLLAPSE FILE: THE SKY BURNS
         </h2>
         <p className="text-yellow-300 font-semibold">2081 COLLAPSE: THE SKY BURNS</p>
         <p className="mt-2">
