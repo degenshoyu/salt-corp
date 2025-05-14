@@ -7,7 +7,7 @@ export default function Home() {
       <section className="border border-red-500 p-6 w-full max-w-4xl mx-auto">
         <h2 className="text-red-400 text-lg md:text-xl font-bold uppercase mb-2">MEME VERSION SALT IS LIVE ON BELIEVE</h2>
           <p>
-          CA: TBD
+          CA: AtMDHvedgMRmWyXxdnPErJJ798mNznsm4tn4UcVqktMh
           </p>
       </section>
 
