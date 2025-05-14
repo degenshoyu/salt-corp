@@ -10,7 +10,7 @@ export default function Home() {
           CA: TBD
           </p>
       </section>
-      
+
       <section className="border border-red-500 p-6 w-full max-w-4xl mx-auto">
         <h2 className="text-red-400 text-lg md:text-xl font-bold uppercase mb-2">[NSC-H-0001] Premise: The Trust Problem</h2>
         <p>
@@ -55,7 +55,7 @@ export default function Home() {
       <section className="border border-red-500 p-6 w-full max-w-4xl mx-auto">
         <h2 className="text-red-400 text-lg md:text-xl font-bold uppercase mb-2">[NSC-H-0003] Initiation: Getting Started</h2>
         <p>
-          To fund the experiment, we launched a memetic copy of SALT on Pump.fun: <strong>mSALT</strong>
+          To fund the experiment, we launched a memetic copy of SALT on Believe: <strong>mSALT</strong>
           <br /><br />
           <strong>Contract Address:</strong> TBD
           <br /><br />
@@ -109,4 +109,3 @@ export default function Home() {
     </div>
   )
 }
-

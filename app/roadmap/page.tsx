@@ -24,7 +24,7 @@ export default function RoadmapPage() {
 const roadmapSections = [
   {
     title: '[NSC-R-0001] Phase I: Bootstrapping the Community',
-    content: `Launch mSALT on Pump.fun
+    content: `Launch mSALT on Believe
 All Dev mSALT will be locked for 1 month
 Build up early community on Telegram
 Snapshot early holders for OG SALT access`,
